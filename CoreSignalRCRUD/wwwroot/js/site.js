@@ -1,0 +1,8 @@
+﻿$(() => {
+
+    LoadProdData();
+
+    function LoadProdData() {
+
+    }
+});
